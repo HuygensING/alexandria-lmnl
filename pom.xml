@@ -37,7 +37,7 @@
         <guava.version>29.0-jre</guava.version>
         <jackson.version>2.11.2</jackson.version>
         <jacoco.version>0.8.2</jacoco.version>
-        <jena.version>3.13.1</jena.version>
+        <jena.version>3.17.0</jena.version>
         <json-schema-validator.version>2.2.14</json-schema-validator.version>
         <junit-jupiter.version>5.7.0</junit-jupiter.version>
         <kotlin.compiler.incremental>true</kotlin.compiler.incremental>
